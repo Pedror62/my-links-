@@ -3,7 +3,7 @@
     margin:0px;
     padding: 0px;
     background-color: #e27a04e0;
-    overflow: hidden;
+
     
 }
 .container{
@@ -19,7 +19,7 @@
 
 
 img{
-    height: 320px;
+    height: 350px;
     width: 320px;
     margin-top: 11px;
     border-radius: 20px;
