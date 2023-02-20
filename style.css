@@ -2,7 +2,8 @@
     font: sans-serif;
     margin:0px;
     padding: 0px;
-    background-color: #f88705;
+    background-color: #e27a04e0;
+    overflow: hidden;
     
 }
 .container{
@@ -12,13 +13,15 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
+   
+    
 }
 
 
 img{
-    height: 320px;
+    height: 300px;
     width: 320px;
-    margin-top: 20px;
+    margin-top: 15px;
     border-radius: 20px;
     border: #0ca70e solid 2px;
    
@@ -26,7 +29,7 @@ img{
 
 }
 h1{
-    margin-top: 12px;
+    margin-top: 8px;
     color: #4116E1;
     
   
@@ -34,11 +37,14 @@ h1{
 
 p{
     margin-top: 8;
+    margin-left: auto;
+    margin-right: auto;
+
     
 }
 
 ul{
-    margin-top: 35px;
+    margin-top: 8px;
 
 }
 
@@ -60,12 +66,12 @@ a{
 }
 
 li a:hover{
-    background-color:#01f1057e; 
+    background-color:#02ab04e6; 
    
 }
 
 
 footer{
-    margin-top: 15px;
+    margin-top: 8px;
     font-family: sans-serif ;
 }
