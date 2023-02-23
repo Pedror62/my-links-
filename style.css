@@ -10,7 +10,7 @@
     width: 390px;
     height: 110vh;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 15px;
@@ -96,9 +96,25 @@ footer{
 @import url(small.css) (min-width:600px);
 @import url(big.css) (min-width:900px);
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
 /* estilos */
 }
 @media screen and (max-width: 600px) {
 /* Estilos */
 }
+/*
+*/
+/*
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+
+@media (max-width: 600px)
+{
+  .facet_sidebar
+   {
+    display: none;
+   }
+}/*
