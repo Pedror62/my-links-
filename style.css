@@ -22,8 +22,10 @@
 #mensagem{
     align-items: center;
     padding: 9px;
-    font-size: 20px;
-    color:#4116e1
+    font-size:  25px;
+    color:#2600ff
+    
+    
     
 }
 
@@ -90,7 +92,7 @@ footer{
     font-family: sans-serif;
 }
 
-@import url(tiny.css) (min-width:300px);
+@import url(tiny.css) (min-width:350px);
 @import url(small.css) (min-width:600px);
 @import url(big.css) (min-width:900px);
 
