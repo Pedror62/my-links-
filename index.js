@@ -3,9 +3,9 @@
   function Saudacao() {
     var mensagem = document.getElementById("mensagem");
     
-    //var horaAtual = new Date().getHours();
+    var horaAtual = new Date().getHours();
     var saudacao;
-    var horaAtual = 8
+   
    
   
   
